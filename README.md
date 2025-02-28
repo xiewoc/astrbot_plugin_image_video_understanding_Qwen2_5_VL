@@ -1,0 +1,1 @@
+# astrbot_plugin_image_video_understanding_Qwen2.5_VL
