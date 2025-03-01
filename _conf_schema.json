@@ -1,0 +1,9 @@
+{
+    "enable_using_flash_attention_2": {
+        "type": "bool",
+        "description": "使用flash_attention_2加速推理并节省显存",
+        "default": false,
+        "hint": "需要环境中安装flash_attention_2",
+        "obvious_hint": true
+    }
+}
