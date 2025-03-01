@@ -1,0 +1,6 @@
+name: astrbot_plugin_image_video_understanding_Qwen2.5_VL
+desc: 为本地模型提供的视频/图片理解补充，使用Qwen2.5_3B_VL 
+help: 无需其他操作
+version: v1.0.0 
+author: xiewoc 
+repo: https://github.com/xiewoc/astrbot_plugin_image_video_understanding_Qwen2_5_VL
