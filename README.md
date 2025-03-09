@@ -6,7 +6,7 @@
 
 也可使用如下命令：
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 # 注意
 
