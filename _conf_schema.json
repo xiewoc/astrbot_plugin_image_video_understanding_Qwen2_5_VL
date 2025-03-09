@@ -5,5 +5,12 @@
         "default": false,
         "hint": "需要环境中安装flash_attention_2",
         "obvious_hint": true
+    },
+    "enable_using_quantize": {
+        "type": "bool",
+        "description": "使用量化节省显存",
+        "default": false,
+        "hint": "需要环境中安装bitsandbytes",
+        "obvious_hint": true
     }
 }
